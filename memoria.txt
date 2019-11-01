@@ -1,0 +1,14 @@
+Memoria del proyecto final de HTML
+
+En este proyecto se han utilizado:
+Elementos de bloque como <div>, títulos <h1> y <h2>, párrafos, tablas, listas y un formulario.
+Elementos inline como imágenes.
+
+Se ha optado por añadirle líneas de delimitación al título al que se le han incluido dos imágenes de internet como "logo".
+También a los demás elementos se le ha dado un estilo como se puede ver al subtítulo que se encuentra en color gris.
+También se han alineado la mayoría de los elementos. Se ha centrado el título y subtítulo.
+Las celdas se han separado para que no queden muy juntas, también se ha justificado el texto que hay dentro de las celdas.
+Dentro de las mismas celdas se han añadido listas para describir los servicios del negocio.
+Para los precios se ha optado con el fin de ahorrar especio y quede visualmente más equilibrado pero en un tamaño mayor de los demás. Además ha sido bastante fácil gracias al elemento de bloque <div>
+También para los precios se ha utilizado el símbolo del euro "&euro;".
+Para el formulario se ha utilizado los inputs de texto, número, radio e email y el botón enviar, por supuesto.
